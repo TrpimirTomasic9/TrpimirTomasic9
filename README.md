@@ -4,9 +4,9 @@
 - 🌱 I'm learning Vue.js and React.
 - 💼 I'm actively seeking job opportunities in web development.
 - 📧 You can reach me at trpimir.tomasic009@gmail.com.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/trpimir-toma%C5%A1i%C4%87-040388278/)
 
 <div style="display: flex;">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TrpimirTomasic9&show_icons=true&theme=dark" />
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrpimirTomasic9&hide_progress=true&theme=dark" />
 </div>
-
